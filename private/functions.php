@@ -12,6 +12,11 @@ function u($string="") {
   return urlencode($string);
 }
 
+function welcomeMessage()
+{
+    return "Hello and welcome to CHAINGANG";
+}
+
 function raw_u($string="") {
   return rawurlencode($string);
 }
