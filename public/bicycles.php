@@ -10,7 +10,7 @@
       <img class="inset" src="<?php echo url_for('/images/AdobeStock_55807979_thumb.jpeg') ?>" />
       <h2>Our Inventory of Used Bicycles</h2>
       <p>Choose the bike you love.</p>
-      <p>We will deliver it to your door and let you try it before you buy it.</p>
+      <p>We will deliver it to your door at a short notice to try out.</p>
     </div>
 
     <table id="inventory">
